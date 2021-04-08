@@ -1,0 +1,329 @@
+2021-04-03 01:03:04.2767|DEBUG|HospitalBL.MainServices.FurnitureStoreManager|Начинается инициализация управляющего блока.
+2021-04-03 01:03:04.7151|DEBUG|HospitalBL.MainServices.FurnitureStoreManager|Инициализация управляющего блока выполнена.
+2021-04-03 01:03:04.7280|DEBUG|HospitalBL.MainServices.FurnitureStoreManager|Инициализация главного менеджера...
+2021-04-03 01:03:04.7380|DEBUG|HospitalBL.MainServices.FurnitureStoreManager|Менеджер инициализирован
+2021-04-03 01:03:09.6158|INFO|HospitalBL.MainServices.FurnitureStoreManager|Попытка авторизации пользователя
+2021-04-03 01:03:09.6158|INFO|HospitalBL.MainServices.FurnitureStoreManager|Пользователь Ewq Qwe успешно авторизовался с правами Врач
+2021-04-03 02:00:28.9707|DEBUG|HospitalBL.MainServices.FurnitureStoreManager|Начинается инициализация управляющего блока.
+2021-04-03 02:00:29.6141|DEBUG|HospitalBL.MainServices.FurnitureStoreManager|Инициализация управляющего блока выполнена.
+2021-04-03 02:00:29.6300|DEBUG|HospitalBL.MainServices.FurnitureStoreManager|Инициализация главного менеджера...
+2021-04-03 02:00:29.6709|DEBUG|HospitalBL.MainServices.FurnitureStoreManager|Менеджер инициализирован
+2021-04-03 02:00:35.5685|INFO|HospitalBL.MainServices.FurnitureStoreManager|Попытка авторизации пользователя
+2021-04-03 02:00:35.5934|INFO|HospitalBL.MainServices.FurnitureStoreManager|Пользователь Ewq Qwe успешно авторизовался с правами Врач
+2021-04-03 02:02:18.1100|DEBUG|HospitalBL.MainServices.FurnitureStoreManager|Начинается инициализация управляющего блока.
+2021-04-03 02:02:18.5569|DEBUG|HospitalBL.MainServices.FurnitureStoreManager|Инициализация управляющего блока выполнена.
+2021-04-03 02:02:18.6187|DEBUG|HospitalBL.MainServices.FurnitureStoreManager|Инициализация главного менеджера...
+2021-04-03 02:02:18.6536|DEBUG|HospitalBL.MainServices.FurnitureStoreManager|Менеджер инициализирован
+2021-04-03 02:02:22.7504|INFO|HospitalBL.MainServices.FurnitureStoreManager|Попытка авторизации пользователя
+2021-04-03 02:02:22.7654|INFO|HospitalBL.MainServices.FurnitureStoreManager|Пользователь Ewq Qwe успешно авторизовался с правами Врач
+2021-04-03 02:03:13.0687|DEBUG|HospitalBL.MainServices.FurnitureStoreManager|Начинается инициализация управляющего блока.
+2021-04-03 02:03:13.5904|DEBUG|HospitalBL.MainServices.FurnitureStoreManager|Инициализация управляющего блока выполнена.
+2021-04-03 02:03:13.6343|DEBUG|HospitalBL.MainServices.FurnitureStoreManager|Инициализация главного менеджера...
+2021-04-03 02:03:13.6672|DEBUG|HospitalBL.MainServices.FurnitureStoreManager|Менеджер инициализирован
+2021-04-03 02:03:19.9747|INFO|HospitalBL.MainServices.FurnitureStoreManager|Попытка авторизации пользователя
+2021-04-03 02:03:19.9896|ERROR|HospitalBL.MainServices.FurnitureStoreManager|Логин и/или пароль неверен
+2021-04-03 02:03:24.8847|INFO|HospitalBL.MainServices.FurnitureStoreManager|Попытка авторизации пользователя
+2021-04-03 02:03:24.9007|INFO|HospitalBL.MainServices.FurnitureStoreManager|Пользователь Ewq Qwe успешно авторизовался с правами Врач
+2021-04-03 02:05:32.9845|DEBUG|HospitalBL.MainServices.FurnitureStoreManager|Начинается инициализация управляющего блока.
+2021-04-03 02:05:33.4635|DEBUG|HospitalBL.MainServices.FurnitureStoreManager|Инициализация управляющего блока выполнена.
+2021-04-03 02:05:33.5010|DEBUG|HospitalBL.MainServices.FurnitureStoreManager|Инициализация главного менеджера...
+2021-04-03 02:05:33.5329|DEBUG|HospitalBL.MainServices.FurnitureStoreManager|Менеджер инициализирован
+2021-04-03 02:05:37.8482|INFO|HospitalBL.MainServices.FurnitureStoreManager|Попытка авторизации пользователя
+2021-04-03 02:05:37.8681|INFO|HospitalBL.MainServices.FurnitureStoreManager|Пользователь Ewq Qwe успешно авторизовался с правами Врач
+2021-04-03 02:07:23.5422|DEBUG|HospitalBL.MainServices.FurnitureStoreManager|Начинается инициализация управляющего блока.
+2021-04-03 02:07:24.0757|DEBUG|HospitalBL.MainServices.FurnitureStoreManager|Инициализация управляющего блока выполнена.
+2021-04-03 02:07:24.1356|DEBUG|HospitalBL.MainServices.FurnitureStoreManager|Инициализация главного менеджера...
+2021-04-03 02:07:24.1630|DEBUG|HospitalBL.MainServices.FurnitureStoreManager|Менеджер инициализирован
+2021-04-03 02:07:29.2885|INFO|HospitalBL.MainServices.FurnitureStoreManager|Попытка авторизации пользователя
+2021-04-03 02:07:29.3085|INFO|HospitalBL.MainServices.FurnitureStoreManager|Пользователь Ewq Qwe успешно авторизовался с правами Врач
+2021-04-03 02:07:43.5600|DEBUG|HospitalBL.MainServices.FurnitureStoreManager|Начинается инициализация управляющего блока.
+2021-04-03 02:07:44.0986|DEBUG|HospitalBL.MainServices.FurnitureStoreManager|Инициализация управляющего блока выполнена.
+2021-04-03 02:07:44.1395|DEBUG|HospitalBL.MainServices.FurnitureStoreManager|Инициализация главного менеджера...
+2021-04-03 02:07:44.1804|DEBUG|HospitalBL.MainServices.FurnitureStoreManager|Менеджер инициализирован
+2021-04-03 02:07:48.3196|INFO|HospitalBL.MainServices.FurnitureStoreManager|Попытка авторизации пользователя
+2021-04-03 02:07:48.3326|INFO|HospitalBL.MainServices.FurnitureStoreManager|Пользователь Ewq Qwe успешно авторизовался с правами Врач
+2021-04-03 02:08:11.4107|DEBUG|HospitalBL.MainServices.FurnitureStoreManager|Начинается инициализация управляющего блока.
+2021-04-03 02:08:11.8710|DEBUG|HospitalBL.MainServices.FurnitureStoreManager|Инициализация управляющего блока выполнена.
+2021-04-03 02:08:11.9009|DEBUG|HospitalBL.MainServices.FurnitureStoreManager|Инициализация главного менеджера...
+2021-04-03 02:08:11.9338|DEBUG|HospitalBL.MainServices.FurnitureStoreManager|Менеджер инициализирован
+2021-04-03 02:08:18.2946|INFO|HospitalBL.MainServices.FurnitureStoreManager|Попытка авторизации пользователя
+2021-04-03 02:08:18.3095|INFO|HospitalBL.MainServices.FurnitureStoreManager|Пользователь Ewq Qwe успешно авторизовался с правами Врач
+2021-04-03 02:09:53.0594|DEBUG|HospitalBL.MainServices.FurnitureStoreManager|Начинается инициализация управляющего блока.
+2021-04-03 02:09:53.7195|DEBUG|HospitalBL.MainServices.FurnitureStoreManager|Инициализация управляющего блока выполнена.
+2021-04-03 02:09:53.7595|DEBUG|HospitalBL.MainServices.FurnitureStoreManager|Инициализация главного менеджера...
+2021-04-03 02:09:53.7915|DEBUG|HospitalBL.MainServices.FurnitureStoreManager|Менеджер инициализирован
+2021-04-03 02:09:58.1752|INFO|HospitalBL.MainServices.FurnitureStoreManager|Попытка авторизации пользователя
+2021-04-03 02:09:58.1891|INFO|HospitalBL.MainServices.FurnitureStoreManager|Пользователь Ewq Qwe успешно авторизовался с правами Врач
+2021-04-03 02:10:17.6134|DEBUG|HospitalBL.MainServices.FurnitureStoreManager|Начинается инициализация управляющего блока.
+2021-04-03 02:10:17.9765|DEBUG|HospitalBL.MainServices.FurnitureStoreManager|Инициализация управляющего блока выполнена.
+2021-04-03 02:10:17.9964|DEBUG|HospitalBL.MainServices.FurnitureStoreManager|Инициализация главного менеджера...
+2021-04-03 02:10:18.0164|DEBUG|HospitalBL.MainServices.FurnitureStoreManager|Менеджер инициализирован
+2021-04-03 02:10:24.3505|INFO|HospitalBL.MainServices.FurnitureStoreManager|Попытка авторизации пользователя
+2021-04-03 02:10:24.3655|INFO|HospitalBL.MainServices.FurnitureStoreManager|Пользователь Ewq Qwe успешно авторизовался с правами Врач
+2021-04-03 02:11:25.2702|DEBUG|HospitalBL.MainServices.FurnitureStoreManager|Начинается инициализация управляющего блока.
+2021-04-03 02:11:25.7224|DEBUG|HospitalBL.MainServices.FurnitureStoreManager|Инициализация управляющего блока выполнена.
+2021-04-03 02:11:25.7544|DEBUG|HospitalBL.MainServices.FurnitureStoreManager|Инициализация главного менеджера...
+2021-04-03 02:11:25.7853|DEBUG|HospitalBL.MainServices.FurnitureStoreManager|Менеджер инициализирован
+2021-04-03 02:11:31.2463|INFO|HospitalBL.MainServices.FurnitureStoreManager|Попытка авторизации пользователя
+2021-04-03 02:11:31.2603|INFO|HospitalBL.MainServices.FurnitureStoreManager|Пользователь Ewq Qwe успешно авторизовался с правами Врач
+2021-04-03 02:12:21.1246|INFO|HospitalBL.MainServices.FurnitureStoreManager|Попытка авторизации пользователя
+2021-04-03 02:12:21.1396|INFO|HospitalBL.MainServices.FurnitureStoreManager|Пользователь Ewq Qwe успешно авторизовался с правами Врач
+2021-04-03 02:13:37.6392|DEBUG|HospitalBL.MainServices.FurnitureStoreManager|Начинается инициализация управляющего блока.
+2021-04-03 02:13:38.1159|DEBUG|HospitalBL.MainServices.FurnitureStoreManager|Инициализация управляющего блока выполнена.
+2021-04-03 02:13:38.1837|DEBUG|HospitalBL.MainServices.FurnitureStoreManager|Инициализация главного менеджера...
+2021-04-03 02:13:38.2396|DEBUG|HospitalBL.MainServices.FurnitureStoreManager|Менеджер инициализирован
+2021-04-03 02:13:42.4954|INFO|HospitalBL.MainServices.FurnitureStoreManager|Попытка авторизации пользователя
+2021-04-03 02:13:42.5104|INFO|HospitalBL.MainServices.FurnitureStoreManager|Пользователь Ewq Qwe успешно авторизовался с правами Врач
+2021-04-03 02:15:06.8466|DEBUG|HospitalBL.MainServices.FurnitureStoreManager|Начинается инициализация управляющего блока.
+2021-04-03 02:15:07.3203|DEBUG|HospitalBL.MainServices.FurnitureStoreManager|Инициализация управляющего блока выполнена.
+2021-04-03 02:15:07.3632|DEBUG|HospitalBL.MainServices.FurnitureStoreManager|Инициализация главного менеджера...
+2021-04-03 02:15:07.4140|DEBUG|HospitalBL.MainServices.FurnitureStoreManager|Менеджер инициализирован
+2021-04-03 02:15:11.7761|INFO|HospitalBL.MainServices.FurnitureStoreManager|Попытка авторизации пользователя
+2021-04-03 02:15:11.7930|INFO|HospitalBL.MainServices.FurnitureStoreManager|Пользователь Ewq Qwe успешно авторизовался с правами Врач
+2021-04-03 02:16:02.8823|DEBUG|HospitalBL.MainServices.FurnitureStoreManager|Начинается инициализация управляющего блока.
+2021-04-03 02:16:03.3980|DEBUG|HospitalBL.MainServices.FurnitureStoreManager|Инициализация управляющего блока выполнена.
+2021-04-03 02:16:03.4309|DEBUG|HospitalBL.MainServices.FurnitureStoreManager|Инициализация главного менеджера...
+2021-04-03 02:16:03.4631|DEBUG|HospitalBL.MainServices.FurnitureStoreManager|Менеджер инициализирован
+2021-04-03 02:16:12.0946|INFO|HospitalBL.MainServices.FurnitureStoreManager|Попытка авторизации пользователя
+2021-04-03 02:16:12.1106|INFO|HospitalBL.MainServices.FurnitureStoreManager|Пользователь Ewq Qwe успешно авторизовался с правами Врач
+2021-04-03 02:16:42.9010|DEBUG|HospitalBL.MainServices.FurnitureStoreManager|Начинается инициализация управляющего блока.
+2021-04-03 02:16:43.3752|DEBUG|HospitalBL.MainServices.FurnitureStoreManager|Инициализация управляющего блока выполнена.
+2021-04-03 02:16:43.4062|DEBUG|HospitalBL.MainServices.FurnitureStoreManager|Инициализация главного менеджера...
+2021-04-03 02:16:43.4281|DEBUG|HospitalBL.MainServices.FurnitureStoreManager|Менеджер инициализирован
+2021-04-03 02:16:48.1600|INFO|HospitalBL.MainServices.FurnitureStoreManager|Попытка авторизации пользователя
+2021-04-03 02:16:48.1759|INFO|HospitalBL.MainServices.FurnitureStoreManager|Пользователь Ewq Qwe успешно авторизовался с правами Врач
+2021-04-03 05:13:31.1137|DEBUG|HospitalBL.MainServices.FurnitureStoreManager|Начинается инициализация управляющего блока.
+2021-04-03 05:13:31.6818|DEBUG|HospitalBL.MainServices.FurnitureStoreManager|Инициализация управляющего блока выполнена.
+2021-04-03 05:13:31.6982|DEBUG|HospitalBL.MainServices.FurnitureStoreManager|Инициализация главного менеджера...
+2021-04-03 05:13:31.7169|DEBUG|HospitalBL.MainServices.FurnitureStoreManager|Менеджер инициализирован
+2021-04-03 05:13:42.0530|INFO|HospitalBL.MainServices.FurnitureStoreManager|Попытка авторизации пользователя
+2021-04-03 05:13:42.0697|INFO|HospitalBL.MainServices.FurnitureStoreManager|Пользователь Ewq Qwe успешно авторизовался с правами Врач
+2021-04-03 05:18:05.3567|DEBUG|HospitalBL.MainServices.FurnitureStoreManager|Начинается инициализация управляющего блока.
+2021-04-03 05:18:05.9030|DEBUG|HospitalBL.MainServices.FurnitureStoreManager|Инициализация управляющего блока выполнена.
+2021-04-03 05:18:05.9259|DEBUG|HospitalBL.MainServices.FurnitureStoreManager|Инициализация главного менеджера...
+2021-04-03 05:18:05.9638|DEBUG|HospitalBL.MainServices.FurnitureStoreManager|Менеджер инициализирован
+2021-04-03 05:18:09.9880|INFO|HospitalBL.MainServices.FurnitureStoreManager|Попытка авторизации пользователя
+2021-04-03 05:18:10.0135|INFO|HospitalBL.MainServices.FurnitureStoreManager|Пользователь Ewq Qwe успешно авторизовался с правами Врач
+2021-04-03 05:24:40.0237|DEBUG|HospitalBL.MainServices.FurnitureStoreManager|Начинается инициализация управляющего блока.
+2021-04-03 05:24:40.6334|DEBUG|HospitalBL.MainServices.FurnitureStoreManager|Инициализация управляющего блока выполнена.
+2021-04-03 05:24:40.6673|DEBUG|HospitalBL.MainServices.FurnitureStoreManager|Инициализация главного менеджера...
+2021-04-03 05:24:40.6993|DEBUG|HospitalBL.MainServices.FurnitureStoreManager|Менеджер инициализирован
+2021-04-03 05:24:46.4587|INFO|HospitalBL.MainServices.FurnitureStoreManager|Попытка авторизации пользователя
+2021-04-03 05:24:46.4825|INFO|HospitalBL.MainServices.FurnitureStoreManager|Пользователь Ewq Qwe успешно авторизовался с правами Врач
+2021-04-03 05:25:46.1284|DEBUG|HospitalBL.MainServices.FurnitureStoreManager|Начинается инициализация управляющего блока.
+2021-04-03 05:25:46.6343|DEBUG|HospitalBL.MainServices.FurnitureStoreManager|Инициализация управляющего блока выполнена.
+2021-04-03 05:25:46.6593|DEBUG|HospitalBL.MainServices.FurnitureStoreManager|Инициализация главного менеджера...
+2021-04-03 05:25:46.7011|DEBUG|HospitalBL.MainServices.FurnitureStoreManager|Менеджер инициализирован
+2021-04-03 05:25:55.4737|INFO|HospitalBL.MainServices.FurnitureStoreManager|Попытка авторизации пользователя
+2021-04-03 05:25:55.4976|INFO|HospitalBL.MainServices.FurnitureStoreManager|Пользователь Ewq Qwe успешно авторизовался с правами Врач
+2021-04-03 06:10:42.2300|DEBUG|HospitalBL.MainServices.FurnitureStoreManager|Начинается инициализация управляющего блока.
+2021-04-03 06:10:42.6066|DEBUG|HospitalBL.MainServices.FurnitureStoreManager|Инициализация управляющего блока выполнена.
+2021-04-03 06:10:42.6066|DEBUG|HospitalBL.MainServices.FurnitureStoreManager|Инициализация главного менеджера...
+2021-04-03 06:10:42.6066|DEBUG|HospitalBL.MainServices.FurnitureStoreManager|Менеджер инициализирован
+2021-04-03 06:10:51.5866|INFO|HospitalBL.MainServices.FurnitureStoreManager|Попытка авторизации пользователя
+2021-04-03 06:10:51.5866|INFO|HospitalBL.MainServices.FurnitureStoreManager|Пользователь Ewq Qwe успешно авторизовался с правами Врач
+2021-04-03 06:16:07.5737|DEBUG|HospitalBL.MainServices.FurnitureStoreManager|Начинается инициализация управляющего блока.
+2021-04-03 06:16:08.0707|DEBUG|HospitalBL.MainServices.FurnitureStoreManager|Инициализация управляющего блока выполнена.
+2021-04-03 06:16:08.0707|DEBUG|HospitalBL.MainServices.FurnitureStoreManager|Инициализация главного менеджера...
+2021-04-03 06:16:08.0707|DEBUG|HospitalBL.MainServices.FurnitureStoreManager|Менеджер инициализирован
+2021-04-03 06:16:12.5697|INFO|HospitalBL.MainServices.FurnitureStoreManager|Попытка авторизации пользователя
+2021-04-03 06:16:12.5697|INFO|HospitalBL.MainServices.FurnitureStoreManager|Пользователь Ewq Qwe успешно авторизовался с правами Врач
+2021-04-03 06:16:34.6267|INFO|HospitalBL.Model.Services.DiagnosisService|Выполняется добаление диагноза HospitalBL.Model.Entities.Diagnosis.Diagnosis...
+2021-04-03 06:16:34.6267|INFO|HospitalBL.Model.Services.DiagnosisService|Выполняется валидация данных товара HospitalBL.Model.Entities.Diagnosis.Diagnosis...
+2021-04-03 06:16:34.6267|INFO|HospitalBL.Model.Services.DiagnosisService|Валидация завершена
+2021-04-03 06:16:34.6506|INFO|HospitalBL.Model.Services.Service`1|Сохранение данных данных Diagnosis...
+2021-04-03 06:16:34.7592|INFO|HospitalBL.Model.Services.Service`1|Данные сохранены
+2021-04-03 06:16:34.7592|INFO|HospitalBL.Model.Services.DiagnosisService|Диагноз HospitalBL.Model.Entities.Diagnosis.Diagnosis добавлен
+2021-04-03 06:18:24.7346|DEBUG|HospitalBL.MainServices.FurnitureStoreManager|Начинается инициализация управляющего блока.
+2021-04-03 06:23:34.1062|DEBUG|HospitalBL.MainServices.FurnitureStoreManager|Начинается инициализация управляющего блока.
+2021-04-03 06:25:13.2842|DEBUG|HospitalBL.MainServices.FurnitureStoreManager|Начинается инициализация управляющего блока.
+2021-04-03 06:33:30.0230|DEBUG|HospitalBL.MainServices.FurnitureStoreManager|Начинается инициализация управляющего блока.
+2021-04-03 06:33:52.4735|DEBUG|HospitalBL.MainServices.FurnitureStoreManager|Начинается инициализация управляющего блока.
+2021-04-03 06:33:52.8670|DEBUG|HospitalBL.MainServices.FurnitureStoreManager|Инициализация управляющего блока выполнена.
+2021-04-03 06:33:52.8670|DEBUG|HospitalBL.MainServices.FurnitureStoreManager|Инициализация главного менеджера...
+2021-04-03 06:33:52.8809|DEBUG|HospitalBL.MainServices.FurnitureStoreManager|Менеджер инициализирован
+2021-04-03 06:33:57.7607|INFO|HospitalBL.MainServices.FurnitureStoreManager|Попытка авторизации пользователя
+2021-04-03 06:33:57.7607|INFO|HospitalBL.MainServices.FurnitureStoreManager|Пользователь Ewq Qwe успешно авторизовался с правами Врач
+2021-04-03 06:34:43.2434|DEBUG|HospitalBL.MainServices.FurnitureStoreManager|Начинается инициализация управляющего блока.
+2021-04-03 06:34:43.7793|DEBUG|HospitalBL.MainServices.FurnitureStoreManager|Инициализация управляющего блока выполнена.
+2021-04-03 06:34:43.7793|DEBUG|HospitalBL.MainServices.FurnitureStoreManager|Инициализация главного менеджера...
+2021-04-03 06:34:43.7823|DEBUG|HospitalBL.MainServices.FurnitureStoreManager|Менеджер инициализирован
+2021-04-03 06:34:48.2729|INFO|HospitalBL.MainServices.FurnitureStoreManager|Попытка авторизации пользователя
+2021-04-03 06:34:48.2729|INFO|HospitalBL.MainServices.FurnitureStoreManager|Пользователь Ewq Qwe успешно авторизовался с правами Врач
+2021-04-03 06:35:20.9400|DEBUG|HospitalBL.MainServices.FurnitureStoreManager|Начинается инициализация управляющего блока.
+2021-04-03 06:35:21.3575|DEBUG|HospitalBL.MainServices.FurnitureStoreManager|Инициализация управляющего блока выполнена.
+2021-04-03 06:35:21.3575|DEBUG|HospitalBL.MainServices.FurnitureStoreManager|Инициализация главного менеджера...
+2021-04-03 06:35:21.3595|DEBUG|HospitalBL.MainServices.FurnitureStoreManager|Менеджер инициализирован
+2021-04-03 06:35:25.7761|INFO|HospitalBL.MainServices.FurnitureStoreManager|Попытка авторизации пользователя
+2021-04-03 06:35:25.7761|INFO|HospitalBL.MainServices.FurnitureStoreManager|Пользователь Ewq Qwe успешно авторизовался с правами Врач
+2021-04-03 06:35:47.9190|DEBUG|HospitalBL.MainServices.FurnitureStoreManager|Начинается инициализация управляющего блока.
+2021-04-03 06:35:48.3982|DEBUG|HospitalBL.MainServices.FurnitureStoreManager|Инициализация управляющего блока выполнена.
+2021-04-03 06:35:48.3982|DEBUG|HospitalBL.MainServices.FurnitureStoreManager|Инициализация главного менеджера...
+2021-04-03 06:35:48.3982|DEBUG|HospitalBL.MainServices.FurnitureStoreManager|Менеджер инициализирован
+2021-04-03 06:35:53.1038|INFO|HospitalBL.MainServices.FurnitureStoreManager|Попытка авторизации пользователя
+2021-04-03 06:35:53.1038|INFO|HospitalBL.MainServices.FurnitureStoreManager|Пользователь Ewq Qwe успешно авторизовался с правами Врач
+2021-04-03 06:42:11.5740|DEBUG|HospitalBL.MainServices.FurnitureStoreManager|Начинается инициализация управляющего блока.
+2021-04-03 06:42:12.2304|DEBUG|HospitalBL.MainServices.FurnitureStoreManager|Инициализация управляющего блока выполнена.
+2021-04-03 06:42:12.2353|DEBUG|HospitalBL.MainServices.FurnitureStoreManager|Инициализация главного менеджера...
+2021-04-03 06:42:12.2353|DEBUG|HospitalBL.MainServices.FurnitureStoreManager|Менеджер инициализирован
+2021-04-03 06:42:16.2557|INFO|HospitalBL.MainServices.FurnitureStoreManager|Попытка авторизации пользователя
+2021-04-03 06:42:16.2557|INFO|HospitalBL.MainServices.FurnitureStoreManager|Пользователь Ewq Qwe успешно авторизовался с правами Врач
+2021-04-03 06:42:31.2077|INFO|HospitalBL.Model.Services.DiagnosisService|Выполняется добаление диагноза HospitalBL.Model.Entities.Diagnosis.Diagnosis...
+2021-04-03 06:42:31.2077|INFO|HospitalBL.Model.Services.DiagnosisService|Выполняется валидация данных товара HospitalBL.Model.Entities.Diagnosis.Diagnosis...
+2021-04-03 06:42:31.2077|INFO|HospitalBL.Model.Services.DiagnosisService|Валидация завершена
+2021-04-03 06:42:31.2246|INFO|HospitalBL.Model.Services.Service`1|Сохранение данных данных Diagnosis...
+2021-04-03 06:42:31.2645|INFO|HospitalBL.Model.Services.Service`1|Данные сохранены
+2021-04-03 06:42:31.2645|INFO|HospitalBL.Model.Services.DiagnosisService|Диагноз HospitalBL.Model.Entities.Diagnosis.Diagnosis добавлен
+2021-04-03 06:42:39.2466|INFO|HospitalBL.Model.Services.DiagnosisService|Выполняется редактирование диагноза...
+2021-04-03 06:42:39.2466|INFO|HospitalBL.Model.Services.DiagnosisService|Выполняется валидация данных товара HospitalBL.Model.Entities.Diagnosis.Diagnosis...
+2021-04-03 06:42:39.2466|INFO|HospitalBL.Model.Services.DiagnosisService|Валидация завершена
+2021-04-03 06:42:39.2466|INFO|HospitalBL.Model.Services.DiagnosisService|Редактирование диагноза HospitalBL.Model.Entities.Diagnosis.Diagnosis...
+2021-04-03 06:42:39.2572|INFO|HospitalBL.Model.Services.DiagnosisService|Редактирование завершено
+2021-04-03 06:42:39.2572|INFO|HospitalBL.Model.Services.Service`1|Сохранение данных данных Diagnosis...
+2021-04-03 06:42:39.2572|INFO|HospitalBL.Model.Services.Service`1|Данные сохранены
+2021-04-03 06:42:46.4857|INFO|HospitalBL.Model.Services.DiagnosisService|Выполняется добаление диагноза HospitalBL.Model.Entities.Diagnosis.Diagnosis...
+2021-04-03 06:42:46.4857|INFO|HospitalBL.Model.Services.DiagnosisService|Выполняется валидация данных товара HospitalBL.Model.Entities.Diagnosis.Diagnosis...
+2021-04-03 06:42:46.4857|INFO|HospitalBL.Model.Services.DiagnosisService|Валидация завершена
+2021-04-03 06:42:46.4857|INFO|HospitalBL.Model.Services.Service`1|Сохранение данных данных Diagnosis...
+2021-04-03 06:42:46.4857|INFO|HospitalBL.Model.Services.Service`1|Данные сохранены
+2021-04-03 06:42:46.4857|INFO|HospitalBL.Model.Services.DiagnosisService|Диагноз HospitalBL.Model.Entities.Diagnosis.Diagnosis добавлен
+2021-04-03 06:43:11.7025|INFO|HospitalBL.Model.Services.DiagnosisService|Выполняется редактирование диагноза...
+2021-04-03 06:43:11.7025|INFO|HospitalBL.Model.Services.DiagnosisService|Выполняется валидация данных товара HospitalBL.Model.Entities.Diagnosis.Diagnosis...
+2021-04-03 06:43:11.7032|INFO|HospitalBL.Model.Services.DiagnosisService|Валидация завершена
+2021-04-03 06:43:11.7032|INFO|HospitalBL.Model.Services.DiagnosisService|Редактирование диагноза HospitalBL.Model.Entities.Diagnosis.Diagnosis...
+2021-04-03 06:43:11.7032|INFO|HospitalBL.Model.Services.DiagnosisService|Редактирование завершено
+2021-04-03 06:43:11.7032|INFO|HospitalBL.Model.Services.Service`1|Сохранение данных данных Diagnosis...
+2021-04-03 06:43:11.7032|INFO|HospitalBL.Model.Services.Service`1|Данные сохранены
+2021-04-03 06:45:02.9266|DEBUG|HospitalBL.MainServices.FurnitureStoreManager|Начинается инициализация управляющего блока.
+2021-04-03 06:45:03.3422|DEBUG|HospitalBL.MainServices.FurnitureStoreManager|Инициализация управляющего блока выполнена.
+2021-04-03 06:45:03.3437|DEBUG|HospitalBL.MainServices.FurnitureStoreManager|Инициализация главного менеджера...
+2021-04-03 06:45:03.3437|DEBUG|HospitalBL.MainServices.FurnitureStoreManager|Менеджер инициализирован
+2021-04-03 06:45:07.1441|INFO|HospitalBL.MainServices.FurnitureStoreManager|Попытка авторизации пользователя
+2021-04-03 06:45:07.1441|INFO|HospitalBL.MainServices.FurnitureStoreManager|Пользователь Ewq Qwe успешно авторизовался с правами Врач
+2021-04-03 06:47:01.4420|DEBUG|HospitalBL.MainServices.FurnitureStoreManager|Начинается инициализация управляющего блока.
+2021-04-03 06:47:01.9935|DEBUG|HospitalBL.MainServices.FurnitureStoreManager|Инициализация управляющего блока выполнена.
+2021-04-03 06:47:01.9935|DEBUG|HospitalBL.MainServices.FurnitureStoreManager|Инициализация главного менеджера...
+2021-04-03 06:47:01.9935|DEBUG|HospitalBL.MainServices.FurnitureStoreManager|Менеджер инициализирован
+2021-04-03 06:47:06.7675|INFO|HospitalBL.MainServices.FurnitureStoreManager|Попытка авторизации пользователя
+2021-04-03 06:47:06.7675|INFO|HospitalBL.MainServices.FurnitureStoreManager|Пользователь Ewq Qwe успешно авторизовался с правами Врач
+2021-04-03 06:48:01.3600|INFO|HospitalBL.Model.Services.DiagnosisService|Выполняется добаление диагноза HospitalBL.Model.Entities.Diagnosis.Diagnosis...
+2021-04-03 06:48:01.3600|INFO|HospitalBL.Model.Services.DiagnosisService|Выполняется валидация данных товара HospitalBL.Model.Entities.Diagnosis.Diagnosis...
+2021-04-03 06:48:01.3600|INFO|HospitalBL.Model.Services.DiagnosisService|Валидация завершена
+2021-04-03 06:48:01.3600|INFO|HospitalBL.Model.Services.Service`1|Сохранение данных данных Diagnosis...
+2021-04-03 06:48:01.4129|INFO|HospitalBL.Model.Services.Service`1|Данные сохранены
+2021-04-03 06:48:01.4129|INFO|HospitalBL.Model.Services.DiagnosisService|Диагноз HospitalBL.Model.Entities.Diagnosis.Diagnosis добавлен
+2021-04-03 06:48:09.5187|INFO|HospitalBL.Model.Services.DiagnosisService|Выполняется редактирование диагноза...
+2021-04-03 06:48:09.5187|INFO|HospitalBL.Model.Services.DiagnosisService|Выполняется валидация данных товара HospitalBL.Model.Entities.Diagnosis.Diagnosis...
+2021-04-03 06:48:09.5187|INFO|HospitalBL.Model.Services.DiagnosisService|Валидация завершена
+2021-04-03 06:48:09.5187|INFO|HospitalBL.Model.Services.DiagnosisService|Редактирование диагноза HospitalBL.Model.Entities.Diagnosis.Diagnosis...
+2021-04-03 06:48:09.5187|INFO|HospitalBL.Model.Services.DiagnosisService|Редактирование завершено
+2021-04-03 06:48:09.5187|INFO|HospitalBL.Model.Services.Service`1|Сохранение данных данных Diagnosis...
+2021-04-03 06:48:09.5187|INFO|HospitalBL.Model.Services.Service`1|Данные сохранены
+2021-04-03 06:50:05.0153|DEBUG|HospitalBL.MainServices.FurnitureStoreManager|Начинается инициализация управляющего блока.
+2021-04-03 07:04:32.1692|DEBUG|HospitalBL.MainServices.FurnitureStoreManager|Начинается инициализация управляющего блока.
+2021-04-03 07:04:51.8476|DEBUG|HospitalBL.MainServices.FurnitureStoreManager|Начинается инициализация управляющего блока.
+2021-04-03 07:04:52.2913|DEBUG|HospitalBL.MainServices.FurnitureStoreManager|Инициализация управляющего блока выполнена.
+2021-04-03 07:04:52.2913|DEBUG|HospitalBL.MainServices.FurnitureStoreManager|Инициализация главного менеджера...
+2021-04-03 07:04:52.2913|DEBUG|HospitalBL.MainServices.FurnitureStoreManager|Менеджер инициализирован
+2021-04-03 07:04:57.4402|INFO|HospitalBL.MainServices.FurnitureStoreManager|Попытка авторизации пользователя
+2021-04-03 07:04:57.4402|INFO|HospitalBL.MainServices.FurnitureStoreManager|Пользователь Ewq Qwe успешно авторизовался с правами Врач
+2021-04-03 07:05:08.9678|INFO|HospitalBL.Model.Services.DiagnosisService|Выполняется добаление диагноза HospitalBL.Model.Entities.Diagnosis.Diagnosis...
+2021-04-03 07:05:08.9678|INFO|HospitalBL.Model.Services.DiagnosisService|Выполняется валидация данных товара HospitalBL.Model.Entities.Diagnosis.Diagnosis...
+2021-04-03 07:05:08.9678|INFO|HospitalBL.Model.Services.DiagnosisService|Валидация завершена
+2021-04-03 07:05:08.9678|INFO|HospitalBL.Model.Services.Service`1|Сохранение данных данных Diagnosis...
+2021-04-03 07:05:09.0262|INFO|HospitalBL.Model.Services.Service`1|Данные сохранены
+2021-04-03 07:05:09.0262|INFO|HospitalBL.Model.Services.DiagnosisService|Диагноз HospitalBL.Model.Entities.Diagnosis.Diagnosis добавлен
+2021-04-03 07:08:21.9013|DEBUG|HospitalBL.MainServices.FurnitureStoreManager|Начинается инициализация управляющего блока.
+2021-04-03 07:08:22.3244|DEBUG|HospitalBL.MainServices.FurnitureStoreManager|Инициализация управляющего блока выполнена.
+2021-04-03 07:08:22.3244|DEBUG|HospitalBL.MainServices.FurnitureStoreManager|Инициализация главного менеджера...
+2021-04-03 07:08:22.3274|DEBUG|HospitalBL.MainServices.FurnitureStoreManager|Менеджер инициализирован
+2021-04-03 07:08:28.6223|DEBUG|HospitalBL.MainServices.FurnitureStoreManager|Начинается инициализация управляющего блока.
+2021-04-03 07:08:29.0486|DEBUG|HospitalBL.MainServices.FurnitureStoreManager|Инициализация управляющего блока выполнена.
+2021-04-03 07:08:29.0486|DEBUG|HospitalBL.MainServices.FurnitureStoreManager|Инициализация главного менеджера...
+2021-04-03 07:08:29.0486|DEBUG|HospitalBL.MainServices.FurnitureStoreManager|Менеджер инициализирован
+2021-04-03 07:08:33.9273|INFO|HospitalBL.MainServices.FurnitureStoreManager|Попытка авторизации пользователя
+2021-04-03 07:08:33.9273|INFO|HospitalBL.MainServices.FurnitureStoreManager|Пользователь Ewq Qwe успешно авторизовался с правами Врач
+2021-04-03 07:09:03.9936|DEBUG|HospitalBL.MainServices.FurnitureStoreManager|Начинается инициализация управляющего блока.
+2021-04-03 07:09:04.4340|DEBUG|HospitalBL.MainServices.FurnitureStoreManager|Инициализация управляющего блока выполнена.
+2021-04-03 07:09:04.4340|DEBUG|HospitalBL.MainServices.FurnitureStoreManager|Инициализация главного менеджера...
+2021-04-03 07:09:04.4370|DEBUG|HospitalBL.MainServices.FurnitureStoreManager|Менеджер инициализирован
+2021-04-03 07:09:09.8223|INFO|HospitalBL.MainServices.FurnitureStoreManager|Попытка авторизации пользователя
+2021-04-03 07:09:09.8223|INFO|HospitalBL.MainServices.FurnitureStoreManager|Пользователь Ewq Qwe успешно авторизовался с правами Врач
+2021-04-03 07:09:23.9072|DEBUG|HospitalBL.MainServices.FurnitureStoreManager|Начинается инициализация управляющего блока.
+2021-04-03 07:09:24.2917|DEBUG|HospitalBL.MainServices.FurnitureStoreManager|Инициализация управляющего блока выполнена.
+2021-04-03 07:09:24.2917|DEBUG|HospitalBL.MainServices.FurnitureStoreManager|Инициализация главного менеджера...
+2021-04-03 07:09:24.2957|DEBUG|HospitalBL.MainServices.FurnitureStoreManager|Менеджер инициализирован
+2021-04-03 07:09:28.5519|INFO|HospitalBL.MainServices.FurnitureStoreManager|Попытка авторизации пользователя
+2021-04-03 07:09:28.5519|INFO|HospitalBL.MainServices.FurnitureStoreManager|Пользователь Ewq Qwe успешно авторизовался с правами Врач
+2021-04-03 07:09:52.1248|INFO|HospitalBL.MainServices.FurnitureStoreManager|Попытка авторизации пользователя
+2021-04-03 07:09:52.1248|INFO|HospitalBL.MainServices.FurnitureStoreManager|Пользователь Ewq Qwe успешно авторизовался с правами Врач
+2021-04-03 07:10:01.0380|INFO|HospitalBL.Model.Services.DiagnosisService|Выполняется добаление диагноза HospitalBL.Model.Entities.Diagnosis.Diagnosis...
+2021-04-03 07:10:01.0380|INFO|HospitalBL.Model.Services.DiagnosisService|Выполняется валидация данных товара HospitalBL.Model.Entities.Diagnosis.Diagnosis...
+2021-04-03 07:10:01.0380|INFO|HospitalBL.Model.Services.DiagnosisService|Валидация завершена
+2021-04-03 07:10:01.0520|INFO|HospitalBL.Model.Services.Service`1|Сохранение данных данных Diagnosis...
+2021-04-03 07:10:01.0924|INFO|HospitalBL.Model.Services.Service`1|Данные сохранены
+2021-04-03 07:10:01.0924|INFO|HospitalBL.Model.Services.DiagnosisService|Диагноз HospitalBL.Model.Entities.Diagnosis.Diagnosis добавлен
+2021-04-03 07:10:46.1818|DEBUG|HospitalBL.MainServices.FurnitureStoreManager|Начинается инициализация управляющего блока.
+2021-04-03 07:10:46.6168|DEBUG|HospitalBL.MainServices.FurnitureStoreManager|Инициализация управляющего блока выполнена.
+2021-04-03 07:10:46.6168|DEBUG|HospitalBL.MainServices.FurnitureStoreManager|Инициализация главного менеджера...
+2021-04-03 07:10:46.6258|DEBUG|HospitalBL.MainServices.FurnitureStoreManager|Менеджер инициализирован
+2021-04-03 07:10:50.1982|INFO|HospitalBL.MainServices.FurnitureStoreManager|Попытка авторизации пользователя
+2021-04-03 07:10:50.1982|INFO|HospitalBL.MainServices.FurnitureStoreManager|Пользователь Ewq Qwe успешно авторизовался с правами Врач
+2021-04-03 07:14:25.9727|DEBUG|HospitalBL.MainServices.FurnitureStoreManager|Начинается инициализация управляющего блока.
+2021-04-03 07:14:26.4245|DEBUG|HospitalBL.MainServices.FurnitureStoreManager|Инициализация управляющего блока выполнена.
+2021-04-03 07:14:26.4245|DEBUG|HospitalBL.MainServices.FurnitureStoreManager|Инициализация главного менеджера...
+2021-04-03 07:14:26.4245|DEBUG|HospitalBL.MainServices.FurnitureStoreManager|Менеджер инициализирован
+2021-04-03 07:14:31.1666|INFO|HospitalBL.MainServices.FurnitureStoreManager|Попытка авторизации пользователя
+2021-04-03 07:14:31.1666|INFO|HospitalBL.MainServices.FurnitureStoreManager|Пользователь Ewq Qwe успешно авторизовался с правами Врач
+2021-04-03 07:14:39.8700|INFO|HospitalBL.Model.Services.DiagnosisService|Выполняется добаление диагноза HospitalBL.Model.Entities.Diagnosis.Diagnosis...
+2021-04-03 07:14:39.8700|INFO|HospitalBL.Model.Services.DiagnosisService|Выполняется валидация данных товара HospitalBL.Model.Entities.Diagnosis.Diagnosis...
+2021-04-03 07:14:39.8700|INFO|HospitalBL.Model.Services.DiagnosisService|Валидация завершена
+2021-04-03 07:14:39.8809|INFO|HospitalBL.Model.Services.Service`1|Сохранение данных данных Diagnosis...
+2021-04-03 07:14:39.9188|INFO|HospitalBL.Model.Services.Service`1|Данные сохранены
+2021-04-03 07:14:39.9188|INFO|HospitalBL.Model.Services.DiagnosisService|Диагноз HospitalBL.Model.Entities.Diagnosis.Diagnosis добавлен
+2021-04-03 07:18:15.1618|DEBUG|HospitalBL.MainServices.FurnitureStoreManager|Начинается инициализация управляющего блока.
+2021-04-03 07:18:15.6475|DEBUG|HospitalBL.MainServices.FurnitureStoreManager|Инициализация управляющего блока выполнена.
+2021-04-03 07:18:15.6475|DEBUG|HospitalBL.MainServices.FurnitureStoreManager|Инициализация главного менеджера...
+2021-04-03 07:18:15.6475|DEBUG|HospitalBL.MainServices.FurnitureStoreManager|Менеджер инициализирован
+2021-04-03 07:18:20.9339|INFO|HospitalBL.MainServices.FurnitureStoreManager|Попытка авторизации пользователя
+2021-04-03 07:18:20.9339|INFO|HospitalBL.MainServices.FurnitureStoreManager|Пользователь Ewq Qwe успешно авторизовался с правами Врач
+2021-04-03 07:19:10.6776|INFO|HospitalBL.Model.Services.DiagnosisService|Выполняется редактирование диагноза...
+2021-04-03 07:19:10.6776|INFO|HospitalBL.Model.Services.DiagnosisService|Выполняется валидация данных товара HospitalBL.Model.Entities.Diagnosis.Diagnosis...
+2021-04-03 07:19:10.6776|INFO|HospitalBL.Model.Services.DiagnosisService|Валидация завершена
+2021-04-03 07:19:10.6776|INFO|HospitalBL.Model.Services.DiagnosisService|Редактирование диагноза HospitalBL.Model.Entities.Diagnosis.Diagnosis...
+2021-04-03 07:19:10.6776|INFO|HospitalBL.Model.Services.DiagnosisService|Редактирование завершено
+2021-04-03 07:19:10.6776|INFO|HospitalBL.Model.Services.Service`1|Сохранение данных данных Diagnosis...
+2021-04-03 07:19:10.7185|INFO|HospitalBL.Model.Services.Service`1|Данные сохранены
+2021-04-03 07:19:16.2147|INFO|HospitalBL.Model.Services.DiagnosisService|Выполняется удаления диагноза...
+2021-04-03 07:22:52.2024|DEBUG|HospitalBL.MainServices.FurnitureStoreManager|Начинается инициализация управляющего блока.
+2021-04-03 07:22:52.5365|DEBUG|HospitalBL.MainServices.FurnitureStoreManager|Инициализация управляющего блока выполнена.
+2021-04-03 07:22:52.5365|DEBUG|HospitalBL.MainServices.FurnitureStoreManager|Инициализация главного менеджера...
+2021-04-03 07:22:52.5365|DEBUG|HospitalBL.MainServices.FurnitureStoreManager|Менеджер инициализирован
+2021-04-03 07:23:00.6538|INFO|HospitalBL.MainServices.FurnitureStoreManager|Попытка авторизации пользователя
+2021-04-03 07:23:00.6558|ERROR|HospitalBL.MainServices.FurnitureStoreManager|Логин и/или пароль неверен
+2021-04-03 07:23:06.5404|INFO|HospitalBL.MainServices.FurnitureStoreManager|Попытка авторизации пользователя
+2021-04-03 07:23:06.5404|INFO|HospitalBL.MainServices.FurnitureStoreManager|Пользователь Ewq Qwe успешно авторизовался с правами Врач
+2021-04-03 07:23:21.8632|INFO|HospitalBL.Model.Services.DiagnosisService|Выполняется удаления диагноза...
+2021-04-03 07:23:21.8632|INFO|HospitalBL.Model.Services.Service`1|Сохранение данных данных Diagnosis...
+2021-04-03 07:23:21.8942|INFO|HospitalBL.Model.Services.Service`1|Данные сохранены
+2021-04-03 07:23:21.8942|INFO|HospitalBL.Model.Services.DiagnosisService|Диагноз удален
+2021-04-03 17:52:22.0557|DEBUG|HospitalBL.MainServices.HospitalManager|Начинается инициализация управляющего блока.
+2021-04-03 17:52:22.4317|DEBUG|HospitalBL.MainServices.HospitalManager|Инициализация управляющего блока выполнена.
+2021-04-03 17:52:22.4317|DEBUG|HospitalBL.MainServices.HospitalManager|Инициализация главного менеджера...
+2021-04-03 17:52:22.4317|DEBUG|HospitalBL.MainServices.HospitalManager|Менеджер инициализирован
+2021-04-03 17:52:29.3931|INFO|HospitalBL.MainServices.HospitalManager|Попытка авторизации пользователя
+2021-04-03 17:52:29.3931|ERROR|HospitalBL.MainServices.HospitalManager|Логин и/или пароль неверен
+2021-04-03 17:52:35.0800|INFO|HospitalBL.MainServices.HospitalManager|Попытка авторизации пользователя
+2021-04-03 17:52:35.0800|INFO|HospitalBL.MainServices.HospitalManager|Пользователь Ewq Qwe успешно авторизовался с правами Врач
+2021-04-03 17:53:30.8357|INFO|HospitalBL.Model.Services.DiagnosisService|Выполняется добаление диагноза HospitalBL.Model.Entities.Diagnosis.Diagnosis...
+2021-04-03 17:53:30.8357|INFO|HospitalBL.Model.Services.DiagnosisService|Выполняется валидация данных товара HospitalBL.Model.Entities.Diagnosis.Diagnosis...
+2021-04-03 17:53:30.8357|INFO|HospitalBL.Model.Services.DiagnosisService|Валидация завершена
+2021-04-03 17:53:30.8561|INFO|HospitalBL.Model.Services.Service`1|Сохранение данных данных Diagnosis...
+2021-04-03 17:53:30.9000|INFO|HospitalBL.Model.Services.Service`1|Данные сохранены
+2021-04-03 17:53:30.9000|INFO|HospitalBL.Model.Services.DiagnosisService|Диагноз HospitalBL.Model.Entities.Diagnosis.Diagnosis добавлен
+2021-04-03 17:56:15.0890|DEBUG|HospitalBL.MainServices.HospitalManager|Начинается инициализация управляющего блока.
+2021-04-03 17:56:15.4282|DEBUG|HospitalBL.MainServices.HospitalManager|Инициализация управляющего блока выполнена.
+2021-04-03 17:56:15.4282|DEBUG|HospitalBL.MainServices.HospitalManager|Инициализация главного менеджера...
+2021-04-03 17:56:15.4282|DEBUG|HospitalBL.MainServices.HospitalManager|Менеджер инициализирован
+2021-04-03 17:56:20.4809|INFO|HospitalBL.MainServices.HospitalManager|Попытка авторизации пользователя
+2021-04-03 17:56:20.4809|INFO|HospitalBL.MainServices.HospitalManager|Пользователь Ewq Qwe успешно авторизовался с правами Врач
